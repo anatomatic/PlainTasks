@@ -336,7 +336,7 @@
 				<key>settings</key>
 				<dict>
 					<key>background</key><string>#f2f0ce</string>
-					<key>foreground</key><string>#ffcc66</string>
+					<key>foreground</key><string>#d57742</string>
 					<key>fontStyle</key><string>bold</string>
 				</dict>
 			</dict>
